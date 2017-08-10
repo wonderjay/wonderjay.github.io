@@ -96,14 +96,13 @@ _![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe
 
 <style>
 
-img {
-  	max-width : none;
-}
+
 
 div.scrollmenu {
     background-color: #333;
     overflow: auto;
     white-space: nowrap;
+    max-width: none;
 }
 
 div.scrollmenu a {
