@@ -124,11 +124,7 @@ div.scrollmenu a:hover {
 <img src="https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png" alt="Smiley face" >
 </div>
 
-<style>
-img {
-  max-width: 100%;
-}
-</style>
+
 ### There are also pretty colors
 
 Also the result of [BASSCSS](http://www.basscss.com/), you can <span class="bg-dark-gray white">highlight</span> certain components
